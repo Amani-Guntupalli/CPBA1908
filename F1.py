@@ -14,3 +14,7 @@ a=10
 print("welcome")
 a=10
 
+
+
+print("welcome")
+a=10
